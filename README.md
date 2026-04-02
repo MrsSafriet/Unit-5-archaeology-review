@@ -1,7 +1,4 @@
 # Unit-5-archaeology-review
-```html
-<!doctype html>
-<html lang="en">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -375,5 +372,3 @@ document.addEventListener('keydown', (e)=>{ if(e.key==='Enter' && e.target.tagNa
 
 </script>
 </body>
-</html>
-```
